@@ -1,7 +1,18 @@
 #name-title {
     color : rgb(96, 0, 185);
+
 }
 
 body {
     background-color: rgb(255, 226, 145);
+    font-family:  'Manrope';
+    font-size: 22px;
+}
+
+.subpage {
+    color: black;
+}
+
+a {
+    text-decoration: none;
 }
